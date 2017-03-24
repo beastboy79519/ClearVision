@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://camo.githubusercontent.com/2714b9171dcf278e5a68d8d6d952dd6c2a13173b/687474703a2f2f692e696d6775722e636f6d2f6b7a6b65734c422e6a7067) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://camo.githubusercontent.com/71edfc07176a7967fb7fd854cf72d24c7093b895/687474703a2f2f692e696d6775722e636f6d2f64626b576d58372e6a7067) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
